@@ -1,0 +1,1 @@
+[H][C@]1([C@](CCCC(C)C)([H])C)CC[C@@]2([H])[C@]3([H])CC=C4C=C(OS(=O)(C(F)(F)F)=O)CC[C@]4(C)[C@@]3([H])CC[C@@]21C.O=C([H])O>CCCCN(CCCC)CCCC.O=C(O[Pd]OC(C)=O)C.P(C5=CC=CC=C5)(C6=CC=CC=C6)C7=CC=CC=C7>[H]C8=CC9=CC[C@]([C@@](CC[C@]%10([H])[C@](CCCC(C)C)([H])C)([H])[C@]%10(C)CC%11)([H])[C@@]%11([H])[C@@]9(C)CC8.O=C=O

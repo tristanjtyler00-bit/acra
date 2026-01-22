@@ -1,0 +1,1 @@
+IC1=CC=C(Br)C=C1>BrC2=CC=CC=C2.O=S(C(F)(F)F)(O)=O.ClC3=CC(C(OO)=O)=CC=C3>BrC4=CC=C([I+]C5=CC=C(Br)C=C5)C=C4.[O-]S(=O)(C(F)(F)F)=O

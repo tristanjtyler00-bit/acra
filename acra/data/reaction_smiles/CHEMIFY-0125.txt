@@ -1,0 +1,1 @@
+CC(C1=C(/N=C/C=N/C2=C(C(C)C)C=CC=C2C(C)C)C(C(C)C)=CC=C1)C.C=O>C[Si](C)(Cl)C>CC(C3=CC=CC(C(C)C)=C3[N+]4=CN(C5=C(C(C)C)C=CC=C5C(C)C)C=C4)C.[Cl-]

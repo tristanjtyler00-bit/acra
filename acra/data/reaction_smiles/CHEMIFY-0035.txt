@@ -1,0 +1,1 @@
+C#CCCCCCC.O=C1CCC(N1Br)=O>[Ag]O[N+]([O-])=O>BrC#CCCCCCC

@@ -1,0 +1,8 @@
+In an oven-dried screw-capped reaction tube was charged with magnetic stir bar,
+corresponding acid (0.2 mmol), Pd(OAc)2 (10 mol%), N-Ac-tLeu (20 mol%), Ag2CO3
+(2 equiv.) and Na3PO4 (2 equiv.) in 1.5 ml (for 0.2 mmol scale) of HFIP were
+added. The reaction tube was capped and placed in a heating bath at 120 °C with
+stirring (800 rpm) for 24 h. Upon completion the mixture was diluted with EtOAc
+and filtered through a celite pad. The filtrate was evaporated under reduced
+pressure and the crude mixture was purified by column chromatography using
+silica (100–200 mesh size) and petroleum ether/ethyl acetate as the eluent.

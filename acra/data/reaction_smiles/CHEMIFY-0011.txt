@@ -1,0 +1,1 @@
+O=C1CC[C@@]2([H])[C@]3([H])CCC4=CC(O)=CC=C4[C@@]3([H])CC[C@@]21C.ClC(C)(C)C>Cl[Fe](Cl)Cl>O=C5CC[C@@]6([H])[C@]7([H])CCC8=CC(O)=C(C(C)(C)C)C=C8[C@@]7([H])CC[C@@]65C

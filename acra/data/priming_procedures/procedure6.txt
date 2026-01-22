@@ -1,0 +1,11 @@
+Fe(OAc)2 (10 mol%, 0.1 equiv.), Na2CO3 (10 mol%, 0.1 equiv.) and TRIP disulfide (10 mol%, 0.1
+equiv.) (in the case using TRIP thiol, HAT reagent was added via syringe after backfilling with
+N2) was added in an oven-dried 8-mL test vial containing a Teflon®-coated magnetic stir bar. The
+vial was evacuated and backfilled with N2 (repeated for 4 times), followed by addition of alkenes
+(0.1 mmol, 1.0 equiv.) and CF3COOH (0.30 mmol, 3.0 equiv) in MeCN/H2O (9:1, 0.1 M in regard
+to alkenes) via syringe under N2. The reaction mixture was placed under 390nm Kessil® light
+after sealing the punctured holes of the vial cap with vacuum grease and electric tape/parafilm for
+better air-tight protection and allowed to react at room temperature for 24 h. Following this, the
+reaction mixture was filtered through a pad of celite which was subsequently rinsed with DCM.
+The filtrate was concentrated, and the residue was then purified by flash column chromatography
+to give the corresponding hydrotrifluoromethylated products. 

@@ -1,0 +1,1 @@
+[H]C1=C(OC)C([H])=CC(/C=N/CC2=CC=CC=C2)=C1.ClC(C3=CC([H])=C([H])C=C3Br)=O.C=C(C(OCC)=O)[Sn](CCCC)(CCCC)CCCC>[Cu]Cl.O=C(C)O[Pd]OC(C)=O.[Na]OC(C)=O>[H]C4=C(OC)C([H])=CC([C]5([H])N6CC7=CC=CC=C7)=C4C[C]5(C8=CC([H])=C([H])C=C8C6=O)C(OCC)=O

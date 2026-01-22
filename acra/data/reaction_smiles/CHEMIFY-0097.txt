@@ -1,0 +1,1 @@
+BrC1=CC=CC=C1.C2=CC=NN2>O=C(O[K])O[K].[Cu]Br.O=C(O)[C@@H]3[C@H](O)[C@H](O)[C@@H](O)[C@@H](O)O3>C4(N5N=CC=C5)=CC=CC=C4

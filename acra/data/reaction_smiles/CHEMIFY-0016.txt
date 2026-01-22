@@ -1,0 +1,1 @@
+O=CC1=CC=C([N+]([O-])=O)C=C1.C=CCN(C)C.CC(C)(C)[N+]#[C-].IC2=C(C(O)=O)C=CC=C2>>IC3=C(C(N(C(C4=CC=C([N+]([O-])=O)C=C4)C(NC(C)(C)C)=O)CC=C)=O)C=CC=C3

@@ -1,0 +1,12 @@
+To a 10 ml flame-dried round-bottom flask equipped with a stir bar and argon
+balloon was added aryl halide (0.375 mmol, 1.5 eq.) followed by anhydrous
+diethyl ether (2 ml) then cooled to –78 °C. n-BuLi (0.375 mmol, 1.5 eq., 2.5 M
+in hexane) was added dropwise and stirred for 1 h (lithium–halogen exchange)
+then t-BuSF (66.5 mg, 0.25 mmol, 1 eq.) in diethyl ether (0.5 ml) was added
+dropwise. The reaction mixture was stirred at –78 °C for 1 h. The reaction was
+quenched with methanol (0.2 ml) and saturated aqueous NH4Cl (5 ml) then
+extracted with ethyl acetate (5 ml; three times), washed with water (10 ml;
+three times) and brine (10 ml; three times), dried over anhydrous Na2SO4,
+filtered and concentrated under reduced pressure. Further purification was
+performed by silica gel column chromatography to give the desired tert-butyl
+sulfoximines.

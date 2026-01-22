@@ -1,0 +1,16 @@
+Unless otherwise stated, a Teflon vial was equipped with a 1-cm stirring bar
+followed by the addition of enyne (0.2 mmol, 1.0 equiv.), p-iodotoluene (9 mg,
+0.04 mmol, 20 mol%) and CHCl3 (0.5 ml). The stated amine:HF mixture was added
+(0.5 ml) via syringe. After stirring for 1 min, Selectfluor (106 mg, 0.3 mmol,
+1.5 equiv.) was added in one portion. The reaction vessel was then sealed with a
+Teflon screw cap. After stirring (350 r.p.m.) at ambient temperature for 24 h,
+the reaction mixture was poured into 100 ml of a saturated solution of NaHCO3
+(caution! generation of CO2!). The Teflon vial was rinsed with dichloromethane
+(DCM) and dropped into another flask of saturated aqueous solution of NaHCO3 to
+guarantee the removal of excess HF. The organics were extracted with DCM
+(3 × 30 ml), the combined organic layers were dried over Na2SO4, filtered, and
+the solvent was carefully removed under reduced pressure. An internal standard
+(ethyl fluoroacetate) was added to the crude residue and the NMR yield was
+analysed by 19F NMR spectroscopy against the internal standard. The NMR sample
+was recombined with the crude residue and purification by column chromatography
+or preparative thin-layer chromatography yielded the desired product.

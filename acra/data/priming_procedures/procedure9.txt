@@ -1,0 +1,11 @@
+A flame dried 1 L round bottom flask, equipped with a stir bar, was charged with phosphorus pentasulfide
+(17.0 g, 75 mmol, 1.5 equiv.), followed by addition of anhydrous DCM (135 mL). The batch was made inert
+by flushing with argon for 2 min. Subsequently, tetrafluoropyridine-4-thiol (S2) (21.0 g, 115 mmol, 2.3 equiv.)
+was added and the reaction flask was immersed in ice/water bath. tert-Butylamine (18.4 mL, 150 mmol, 3.0
+equiv.) was carefully added to the reaction mixture (Caution: reaction very exothermic). The resulting
+suspension was warmed to room temperature and stirred for 16 h under argon atmosphere. The reaction was
+carefully quenched with water (135 mL) (Caution: H2S is evolved during this step), followed by the addition
+of hexanes (135 mL). The resulting slurry was stirred for 30 min, after which precipitate was filtered off and
+washed consecutively with water (60 mL), DCM/hexanes (1:1; 3x 60 mL) and hexanes (60 mL). The filter
+cake was dried under reduced pressure overnight to provide 18.4 g of compound S3 as a white crystalline solid
+(Yield = 60%).

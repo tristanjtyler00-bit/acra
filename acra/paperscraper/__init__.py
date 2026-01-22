@@ -1,0 +1,1 @@
+from acra.paperscraper.paper_scraper import PaperScraper

@@ -1,0 +1,1 @@
+SC1=NC=C(C(F)(F)F)C=C1.C=CCBr>O=C(O[K])O[K].ClC2=CC(C(OO)=O)=CC=C2>C=CCS(C3=NC=C(C(F)(F)F)C=C3)(=O)=O

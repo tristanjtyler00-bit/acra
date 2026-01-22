@@ -1,0 +1,1 @@
+C=CCS(C1=NC=C(C(F)(F)F)C=C1)(=O)=O.BrC2=CC=C(C)C=C2>O=C(O[Cs])O[Cs].CC(P(C)C(C)(C)C)(C)C.O=C(O[Pd]OC(C)=O)C>FC(C3=CN=C(C4=CC=C(C)C=C4)C=C3)(F)F

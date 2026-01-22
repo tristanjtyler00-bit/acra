@@ -1,0 +1,18 @@
+All pyryliums were synthesized following a modified procedure reported by
+DiMauro and Kozlowski22,23. In an oven-dried 250 ml round-bottom flask,
+2,6-dimethyl-γ-pyrone was dissolved in THF under nitrogen. The stirring solution
+was cooled to 5 °C via an ice bath, then one equivalent of arylmagnesium bromide
+(in a 1 M solution with THF) was added dropwise. The reaction mixture was
+subsequently allowed to warm to room temperature while stirring over an hour.
+The crude mixture was poured over a boron trifluoride diethyl etherate solution
+to yield a precipitate that was filtered and washed with diethyl ether. The
+product was purified by recrystallization in a 1:1 water/methanol mixture.
+
+The resulting pyrylium intermediates were then reacted with a primary amine to
+afford the desired pyridinium derivatives. In a 50 ml round-bottom flask
+equipped with a magnetic stir bar and condenser, 4-substituted
+2,6-dimethyl-pyrylium tetrafluoroborate was suspended in ethanol (~30 ml).
+Approximately 1.2 equivalents of the corresponding primary amine was added and
+the mixture was refluxed for 4 h while under nitrogen. The solution was cooled
+to room temperature overnight and diluted with diethyl ether. The precipitate
+was isolated by filtration and dried under vacuum to afford a solid product.

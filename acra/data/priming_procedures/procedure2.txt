@@ -1,0 +1,17 @@
+In a 5-ml vial, 18.5 mg of CTA 2 (73.0 μmol, 1 equiv.) was dissolved in 1.50 ml
+of DMA (14.55 mmol, 200 equiv.). Subsequently, 0.74 ml of water and 4 μl of
+sulfuric acid (72.7 μmol, 1 equiv.) were added and a stirrer bar was inserted
+into the reaction vial. The vial was then sealed with a septum, before
+deoxygenation by nitrogen bubbling for 15 min. Polymerization was conducted in
+an oil bath at 70 °C for 20 h with a 200 r.p.m. stirring rate, to reach a
+conversion of 96% by 1H NMR spectroscopy. In a separate vial, 1.83 ml
+(14.55 mmol, 200 equiv.) of NAM, 1.03 ml of water and 8 μl of sulfuric acid
+(145.4 μmol, 2 equiv.) were added and degassed under nitrogen atmosphere for
+15 min before addition to the polymerization mixture via a nitrogen-purged
+syringe. The polymerization was left to proceed for 40 h, yielding a diblock
+copolymer (Ð = 1.14). Similarly, a third aliquot was prepared containing 1.50 ml
+of DMA (14.55 mmol, 200 equiv.), 0.67 ml of water and 12 µl of sulfuric acid
+(218.1 μmol, 3 equiv.), and was deoxygenated for 15 min. Then, the aliquot was
+added to the polymerization solution and the reaction was left to proceed for
+24 h at 70 °C and then for 3 h at 80 °C, yielding a triblock copolymer with 94%
+conversion by 1H NMR spectroscopy and Ð = 1.16.

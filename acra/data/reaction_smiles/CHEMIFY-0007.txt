@@ -1,0 +1,1 @@
+NCC1=CC=CC=N1.O=C([H])C2=CC=CS2>[H][B-]([H])([H])[H].[Na+]>C3(CNCC4=CC=CS4)=NC=CC=C3

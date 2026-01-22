@@ -1,0 +1,1 @@
+CC(C1=CC=C(F)C=C1)=O>C[Si](C)(C(F)(F)F)C.CCCC[N+](CCCC)(CCCC)CCCC.[F-]>CC(O)(C(F)(F)F)C2=CC=C(F)C=C2

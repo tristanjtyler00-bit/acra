@@ -1,0 +1,1 @@
+BrCC1=CC=CC=C1.O=C(O)C2=CC=C([N+]([O-])=O)C=C2>O=C(O[K])O[K]>O=C(OCC3=CC=CC=C3)C4=CC=C([N+]([O-])=O)C=C4

@@ -1,0 +1,1 @@
+O=C(C(N(C)C)=O)C1=CNC2=CC=CC(OC(C)=O)=C21>[H][Al-]([H])([H])[H].[Li+]>OC3=C4C(NC=C4CCN(C)C)=CC=C3

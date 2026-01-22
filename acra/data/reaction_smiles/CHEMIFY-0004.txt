@@ -1,0 +1,1 @@
+O=C(C[CH]1CC2)C[CH]2N1C.CC(CC)[B-](C(CC)C)([H])C(CC)C.[Li+]>>O[C](C[CH]3CC4)([H])C[CH]4N3C

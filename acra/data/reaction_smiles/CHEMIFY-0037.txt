@@ -1,0 +1,1 @@
+O=C(OCC=C)CCCCCC(OCC=C)=O>[H][Na].IC>O=C1[C@](C(OCC=C)=O)(C)CCCC1

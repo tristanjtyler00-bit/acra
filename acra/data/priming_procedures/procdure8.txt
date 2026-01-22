@@ -1,0 +1,12 @@
+Caution: All steps should be performed under well ventilated fume hood due to the large amount of H2S
+liberated during the reaction.
+A 250 mL round bottom flask equipped with a stir bar was charged with sodium hydrosulfide hydrate (48.2 g,
+660 mmol, 2.2 equiv.), followed by the addition of MeOH (100 mL). The resulting suspension was stirred at
+room temperature until most of the solid dissolved. The flask was immersed into ice/water bath and
+pentafluoropyridine (S1) (33.0 mL, 300 mmol, 1.0 equiv.) was slowly added, maintaining internal reaction
+temperature below 30 °C. The resulting viscous solution was stirred for 5 min, after which the volatile
+components were evaporated under reduced pressure. The residue was carefully treated with 4M HCl solution
+(180 mL), and the product was extracted with hexanes (100 mL, then 2 x 50 mL). The combined organic
+phases were dried using MgSO4, filtered and the solvent was evaporated under reduced pressure (>100 mbar,
+temp. 30 °C) to afford thiol S2 (52.2 g) as a colorless liquid, which solidified upon storage at 0 °C
+(Yield = 95%).

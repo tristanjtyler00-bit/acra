@@ -1,0 +1,1 @@
+CC(C)CC(C(N(OC)C)=O)NC(OC(C)(C)C)=O>[H][Al-]([H])([H])[H].[Li+]>CC(C)CC(NC(OC(C)(C)C)=O)C([H])=O

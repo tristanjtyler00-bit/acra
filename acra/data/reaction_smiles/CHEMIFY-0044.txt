@@ -1,0 +1,1 @@
+OC1=C(C(C)(C)C)C=C(C(C)(C)C)C=C1C=O.[NH3+]C2C([NH3+])CCCC2.OC(C(O)C([O-])=O)C([O-])=O>[K]OC(O[K])=O>[H]C3(/N=C/C4=C(O)C(C(C)(C)C)=CC(C(C)(C)C)=C4)C(/N=C/C5=CC(C(C)(C)C)=CC(C(C)(C)C)=C5O)([H])CCCC3

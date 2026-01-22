@@ -1,0 +1,9 @@
+To an RB flask were added 5-pentenol (4.9 mmol, 1.96 equiv), carboxylic acid (2.5 mmol, 1.0
+equiv), 4-dimethylamino pyridine (0.24 mmol, 0.097 equiv), and a stir bar. The RB flask was then
+evacuated and backfilled with nitrogen gas three times. Dry dichloromethane (0.225 M) was added
+via syringe to the RB flask, dissolving the solid components. The RB flask was then placed in an
+ice bath positioned on top of a stirring plate. Dicyclohexyl carbodiimide (4.85 mmol, 1.94 mmol)
+was added to the mixture via syringe dropwise over a period of 5 minutes. The ice bath was then
+removed, allowing the reaction to return to room temperature. The reaction was left to stir
+overnight. Following reaction, the mixture was concentrated through rotary evaporation.
+Subsequent flash column chromatography (hexanes/EtOAc) allowed for isolation of the ester.

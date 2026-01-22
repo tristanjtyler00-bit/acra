@@ -1,0 +1,1 @@
+O[C@@H]1CC[C@@]2(C)[C@@](CCC3([H])[C@]2([H])CC[C@@]4(C)[C@@]3([H])CC[C@]4([H])[C@H](C)CCC(O)=O)([H])C1>O=S(O)(O)=O.O=[Cr](=O)=O>O=C5CC[C@@]6(C)[C@@](CCC7([H])[C@]6([H])CC[C@@]8(C)[C@@]7([H])CC[C@]8([H])[C@H](C)CCC(O)=O)([H])C5

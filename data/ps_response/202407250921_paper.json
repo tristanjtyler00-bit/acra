@@ -1,0 +1,225 @@
+{
+    "chemicals": {
+        "D-glucose": [],
+        "acetone": [],
+        "choline chloride": [
+            "ChCl",
+            "ChCl"
+        ],
+        "malonic acid": [
+            "MA",
+            "MA"
+        ],
+        "ethyl acetate": [],
+        "D-galactose": [],
+        "D-mannose": [],
+        "D-xylose": [],
+        "L-arabinose": [],
+        "D-fructose": [],
+        "D-glucal": [],
+        "methanol": [
+            "MeOH"
+        ],
+        "benzaldehyde": [],
+        "dichloromethane": [],
+        "p-toluenesulfonic acid": [
+            "TsOH"
+        ],
+        "oxalic acid": [],
+        "water": [],
+        "sulfuric acid": [
+            "H2SO4"
+        ],
+        "silica gel": [],
+        "deuterated chloroform": [
+            "CDCl3"
+        ]
+    },
+    "procedure_titles": [
+        "Synthesis of 1,2:5,6-di-O-isopropylidene-\u03b1-D-glucofuranoside",
+        "Synthesis of methyl 4,6-O-benzylidene-\u03b1-D-glucopyranoside",
+        "Synthesis of 1,2:5,6-di-O-isopropylidene-\u03b1-D-glucofuranoside",
+        "Synthesis of methyl 4,6-O-benzylidene-\u03b1-D-glucopyranoside",
+        "Preparation of deep eutectic solvent",
+        "General procedure for the preparation of O-isopropylidene derivatives",
+        "Preparation of 1,2:5,6-di-O-isopropylidene-\u03b1-D-glucofuranose",
+        "General procedure for the preparation of methyl 4,6-O-benzylidene glycosides",
+        "Preparation of methyl 4,6-O-benzylidene-\u03b1-D-glucopyranoside"
+    ],
+    "procedure_texts": {
+        "Synthesis of 1,2:5,6-di-O-isopropylidene-\u03b1-D-glucofuranoside": {
+            "full_procedure_text": "D-glucose (1.0 mmol) was treated with dry acetone (2 mL) in the presence of choline chloride:malonic acid (2 g) at room temperature. Thin layer chromatography analysis indicated the formation of 1,2:5,6-di-O-isopropylidene-\u03b1-D-glucofuranoside that was isolated in a 78% yield after 4 hours. The same reaction when carried out at 55 \u00b0C was complete within 20 minutes and afforded 1,2:5,6-di-O-isopropylidene-\u03b1-D-glucofuranoside in a 90% yield as a free-flowing crystalline material by extraction with ethyl acetate (3 \u00d7 20 mL) followed by evaporation of the extract.",
+            "product": "1,2:5,6-di-O-isopropylidene-\u03b1-D-glucofuranoside",
+            "chemicals": [
+                "D-glucose",
+                "acetone",
+                "choline chloride",
+                "malonic acid",
+                "ethyl acetate"
+            ],
+            "purification": {
+                "extraction": [
+                    "ethyl acetate (3 \u00d7 20 mL)"
+                ],
+                "evaporation": [
+                    "evaporation of the extract"
+                ]
+            },
+            "yield": 90,
+            "analysis": {
+                "thin layer chromatography": [
+                    "indicated the formation of 1,2:5,6-di-O-isopropylidene-\u03b1-D-glucofuranoside"
+                ]
+            },
+            "additional_info": [
+                "The reaction could be conveniently carried out on a large scale. Thus, 10 g of D-glucose was converted into 13 g (a 90% yield) of glucose diacetonide within 1 hour."
+            ]
+        },
+        "Synthesis of methyl 4,6-O-benzylidene-\u03b1-D-glucopyranoside": {
+            "full_procedure_text": "A mixture of methanol (8.0 mL), D-glucose (2.5 g, 13.8 mmol), and choline chloride:malonic acid (15 g) was stirred at 60 \u00b0C for 30 minutes. Benzaldehyde (1.4 mL) was then added, and thin layer chromatography indicated the formation of methyl 4,6-O-benzylidene-\u03b1-D-glucopyranoside, which could now be readily extracted with ethyl acetate. The yield was 78%.",
+            "product": "methyl 4,6-O-benzylidene-\u03b1-D-glucopyranoside",
+            "chemicals": [
+                "methanol",
+                "D-glucose",
+                "choline chloride",
+                "malonic acid",
+                "benzaldehyde",
+                "ethyl acetate"
+            ],
+            "purification": {
+                "extraction": [
+                    "ethyl acetate"
+                ]
+            },
+            "yield": 78,
+            "analysis": {
+                "thin layer chromatography": [
+                    "indicated the formation of methyl 4,6-O-benzylidene-\u03b1-D-glucopyranoside"
+                ]
+            },
+            "additional_info": [
+                "The preparation could be readily scaled up and we have prepared 6.2 g of methyl 4,6-O-benzylidene-\u03b1-D-glucopyranoside from 5.0 g of D-glucose in a few hours."
+            ]
+        },
+        "Preparation of deep eutectic solvent": {
+            "full_procedure_text": "Choline chloride (50 g) and malonic acid (75 g) were mixed and heated to 70\u201380 \u00b0C for 4 h to obtain a clear transparent solution. In a similar way, deep eutectic solvents were prepared by using choline chloride (50 g) and p-toluenesulfonic acid (111 g), and choline chloride (50 g) and oxalic acid (70 g).",
+            "product": "deep eutectic solvent",
+            "chemicals": [
+                "choline chloride",
+                "malonic acid",
+                "p-toluenesulfonic acid",
+                "oxalic acid"
+            ],
+            "purification": {},
+            "yield": null,
+            "analysis": {},
+            "additional_info": []
+        },
+        "General procedure for the preparation of O-isopropylidene derivatives": {
+            "full_procedure_text": "A mixture of the free sugar (2.5 g, 13.8 mmol), dry acetone (15 mL) and a deep eutectic solvent (15 g) prepared from choline chloride (6.0 g) and malonic acid (9.0 g) was boiled under reflux for the required time (Table 2). After completion of the reaction as indicated by TLC analysis, the resulting mixture was cooled to room temperature and extracted with ethyl acetate (3 \u00d7 20 mL). The combined ethyl acetate layer was evaporated under vacuum to afford the corresponding O-isopropylidene derivative. The deep eutectic solvent was treated with (5.0 mL) water and dehydrated under vacuum on a rotary evaporator at 70 \u00b0C for 1 h.",
+            "product": "O-isopropylidene derivative",
+            "chemicals": [
+                "free sugar",
+                "acetone",
+                "deep eutectic solvent",
+                "choline chloride",
+                "malonic acid",
+                "ethyl acetate",
+                "water"
+            ],
+            "purification": {
+                "extraction": [
+                    "ethyl acetate (3 \u00d7 20 mL)"
+                ],
+                "evaporation": [
+                    "vacuum"
+                ]
+            },
+            "yield": null,
+            "analysis": {
+                "TLC": []
+            },
+            "additional_info": []
+        },
+        "Preparation of 1,2:5,6-di-O-isopropylidene-\u03b1-D-glucofuranose": {
+            "full_procedure_text": "A mixture of D-glucose (10 g, 55.6 mmol), dry acetone (40 mL), and a deep eutectic solvent (30 g) prepared from choline chloride (13 g) and malonic acid (17 g) was boiled under reflux for 30 min. After completion of the reaction as indicated by TLC analysis, the resulting mixture was cooled to room temperature and extracted with ethyl acetate (3 \u00d7 100 mL). The combined ethyl acetate layer was evaporated under vacuum to afford 1,2:5,6-di-O-isopropylidene-\u03b1-D-glucofuranose (1a, 13.0 g, 90% yield). The raffinate was treated with (5.0 mL) water and dehydrated under vacuum on a rotary evaporator at 70 \u00b0C for 1 h to afford deep eutectic solvent that could be reused.",
+            "product": "1,2:5,6-di-O-isopropylidene-\u03b1-D-glucofuranose",
+            "chemicals": [
+                "D-glucose",
+                "acetone",
+                "deep eutectic solvent",
+                "choline chloride",
+                "malonic acid",
+                "ethyl acetate",
+                "water"
+            ],
+            "purification": {
+                "extraction": [
+                    "ethyl acetate (3 \u00d7 100 mL)"
+                ],
+                "evaporation": [
+                    "vacuum"
+                ]
+            },
+            "yield": 90,
+            "analysis": {
+                "TLC": []
+            },
+            "additional_info": []
+        },
+        "General procedure for the preparation of methyl 4,6-O-benzylidene glycosides": {
+            "full_procedure_text": "A mixture of the free sugar (2.5 g, 13.8 mmol) in dry methanol (8.0 mL) and deep eutectic solvent (15.0 g) prepared from choline chloride and malonic acid was boiled under reflux for 30 min and cooled to room temperature. Benzaldehyde (2.0 mL) was added and the resulting mixture was heated to 60 \u00b0C and stirred for 20 min. After completion of the reaction as indicated by TLC analysis, it was cooled to room temperature and extracted with ethyl acetate (3 \u00d7 20 mL). The combined ethyl acetate layer was evaporated under vacuum to afford the corresponding methyl 4,6-O-benzylidene glycoside. The residual choline chloride:malonic acid was treated with water (5.0 mL) and the resulting mass was dehydrated under vacuum on a rotary evaporator at 70 \u00b0C for 1 h.",
+            "product": "methyl 4,6-O-benzylidene glycoside",
+            "chemicals": [
+                "free sugar",
+                "methanol",
+                "deep eutectic solvent",
+                "choline chloride",
+                "malonic acid",
+                "benzaldehyde",
+                "ethyl acetate",
+                "water"
+            ],
+            "purification": {
+                "extraction": [
+                    "ethyl acetate (3 \u00d7 20 mL)"
+                ],
+                "evaporation": [
+                    "vacuum"
+                ]
+            },
+            "yield": null,
+            "analysis": {
+                "TLC": []
+            },
+            "additional_info": []
+        },
+        "Preparation of methyl 4,6-O-benzylidene-\u03b1-D-glucopyranoside": {
+            "full_procedure_text": "A mixture of D-glucose (5 g, 27.8 mmol) in dry methanol (16 mL) and deep eutectic solvent (20.0 g) prepared from choline chloride (8.0 g) and malonic acid (12.0 g) was boiled under reflux for 45 min and cooled to room temperature. Benzaldehyde (3.53 g, 3.40 mL, 33.3 mmol) was added and the resulting mixture was heated to 60 \u00b0C and stirred for 30 min. After completion of the reaction as indicated by TLC analysis, it was cooled to room temperature and extracted with ethyl acetate (30 \u00d7 20 mL). The combined ethyl acetate layer was evaporated under vacuum to afford methyl 4,6-O-benzylidene-\u03b1-D-glucopyranoside (2a, 6.2 g, 79.1% yield). The raffinate was treated with water (5.0 mL) and the resulting mass was dehydrated under vacuum on a rotary evaporator at 70 \u00b0C for 1 h to afford deep eutectic solvent that could be reused.",
+            "product": "methyl 4,6-O-benzylidene-\u03b1-D-glucopyranoside",
+            "chemicals": [
+                "D-glucose",
+                "methanol",
+                "deep eutectic solvent",
+                "choline chloride",
+                "malonic acid",
+                "benzaldehyde",
+                "ethyl acetate",
+                "water"
+            ],
+            "purification": {
+                "extraction": [
+                    "ethyl acetate (30 \u00d7 20 mL)"
+                ],
+                "evaporation": [
+                    "vacuum"
+                ]
+            },
+            "yield": 79.1,
+            "analysis": {
+                "TLC": []
+            },
+            "additional_info": []
+        }
+    }
+}

@@ -1,0 +1,1 @@
+NC1CCCCC1N.OC(C(O)=O)[C@@H](O)C(O)=O>>[NH3+]C2CCCCC2[NH3+].O[C@@H](C([O-])=O)C(C([O-])=O)O

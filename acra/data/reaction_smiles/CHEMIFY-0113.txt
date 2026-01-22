@@ -1,0 +1,1 @@
+O=C1C(Cl)(Cl)C(CCCC)=C1>CN(C)CCN(C)C.[Zn]>O=C2C([H])([H])C(CCCC)=C2

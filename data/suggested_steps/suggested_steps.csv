@@ -1,0 +1,27 @@
+﻿step_type,frequency,type
+Grinding,11,1
+Visual Monitoring,8,1
+Gas Monitoring,11,1
+Schlenk,10,1
+Analytics,11,1
+TLC,55,1
+Solid Handling Crystals,2,1
+Distillation,17,1
+Glovebox,1,1
+Mircowave,3,1
+pH Control,18,1
+Long-term-storage,4,1
+Weighing,1,1
+Darkness/Lighting cond.,3,1
+Decant,1,2
+Conditional/Dynamic steps,9,2
+Degassing,1,2
+Sublimate,1,2
+dropwise attr Transfer,1,3
+pressure attr.  EvacuateAndRefill,1,3
+seeding attr. Crystallize,2,3
+pressure attr. Filter,1,3
+rate attr. Add,2,3
+gaseous attr. Add,1,3
+rate attr. HeatChill,9,3
+airstream attr. Dry,4,3
