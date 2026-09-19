@@ -1,5 +1,9 @@
 import logging
 
+logger = logging.getLogger(__name__)
+
+_CHEMPUTER_IMPORT_ERROR = None
+
 try:
     from xdl import XDL
     from chempiler import Chempiler
@@ -7,11 +11,27 @@ try:
     import ChemputerAPI
     import SerialLabware
     import commanduino
-except ImportError:
-    ...
+except ImportError as e:
+    # The Chemputer stack is optional (see CHEMPU_AVAILABLE in acra/__init__.py
+    # and main.py imports this module unconditionally), so importing this
+    # module must not fail. But swallowing the error hides *why* the stack is
+    # unusable and surfaces later as an unrelated NameError. Keep the real
+    # error, log it now, and re-raise it from the functions that need it.
+    _CHEMPUTER_IMPORT_ERROR = e
+    logger.warning(
+        "Chemputer stack failed to import: %s: %s", type(e).__name__, e, exc_info=True
+    )
 
 from .setup_chemputer import map_to_graph, get_chempiler
 from acra.utils.logging import append_to_log
+
+
+def _require_chemputer_stack():
+    if _CHEMPUTER_IMPORT_ERROR is not None:
+        raise ImportError(
+            "The Chemputer stack could not be imported: "
+            f"{type(_CHEMPUTER_IMPORT_ERROR).__name__}: {_CHEMPUTER_IMPORT_ERROR}"
+        ) from _CHEMPUTER_IMPORT_ERROR
 
 
 def disable_loggers():
@@ -37,6 +57,7 @@ def disable_loggers():
 
 
 def run_experiment(xdl_proc, graph_file, output_dir=".", simulation=False):
+    _require_chemputer_stack()
     x = XDL(xdl_proc, platform=ChemputerPlatform)
     graph = x.prepare_for_execution(graph_file, interactive=False)
     c = Chempiler(
@@ -57,6 +78,9 @@ def execute_in_simulation(
     simulation=True,
     interactive=False,
 ):
+    # Outside the try below on purpose: that block returns errors as a list of
+    # strings, which would turn a missing stack back into a quiet return value.
+    _require_chemputer_stack()
 
     ERROR_LOG = []
     logging.basicConfig(level=logging.CRITICAL)
